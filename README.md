@@ -115,10 +115,8 @@ Examples:
 
 ## 📷 Dashboard Preview
 
-(Add screenshots here)
+<img width="1388" height="762" alt="image" src="https://github.com/user-attachments/assets/434922e1-f952-41e3-bba8-65c7d678ed4a" />
 
-Example:
-![Dashboard Preview](dashboard.png)
 
 ---
 
