@@ -3,7 +3,7 @@
 ## 📌 Overview
 Smart Weather Analytics Dashboard is an end-to-end data analytics project built using **Power BI** and **Weather API** to provide real-time weather monitoring and intelligent day-planning recommendations.
 
-The dashboard automatically fetches live weather data, performs cleaning and transformation, refreshes every hour, and generates actionable suggestions such as whether conditions are suitable for outdoor activities and daily planning.
+The dashboard automatically fetches live weather data, performs cleaning and transformation, refreshes every hour, and generates actionable suggestions such as weather conditions are suitable for outdoor activities and daily planning.
 
 This project demonstrates **API integration, automated ETL pipelines, data modeling, dashboard design, and decision-support analytics**.
 
@@ -97,9 +97,9 @@ The dashboard goes beyond visualization and provides actionable recommendations 
 
 Examples:
 - ☀️ Great day for outdoor activities
-- 🌧️ Rain expected — carry an umbrella
-- 🌡️ High temperature — avoid prolonged exposure
-- 🌬️ Pleasant weather — ideal for travel
+- 🌧️ Rain expected - carry an umbrella
+- 🌡️ High temperature - avoid prolonged exposure
+- 🌬️ Pleasant weather - ideal for travel
 
 ---
 
