@@ -136,9 +136,6 @@ Examples:
 MBA Analytics | IIM Kashipur  
 Mechanical Engineering | NIT Bhopal  
 
-LinkedIn: Add Profile Link  
-Portfolio: Add Portfolio Link
-
 ---
 
 ⭐ If you found this project useful, feel free to star the repository.
